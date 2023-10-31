@@ -30,6 +30,7 @@ Estudante de Engenharia de Software [4/8]
 ![VUEJS](https://img.shields.io/badge/VueJs-000?style=for-the-badge&logo=vuedotjs)
 ![SPRINGBOOT](https://img.shields.io/badge/SpringBoot-000?style=for-the-badge&logo=springboot)
 ![BOOTSTRAP](https://img.shields.io/badge/BootStrap-000?style=for-the-badge&logo=bootstrap)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
 ## Repositórios
 
