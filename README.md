@@ -36,8 +36,8 @@ Estudante de Engenharia de Software [4/8]
 ## Projeto de uma pizzaria utilizando java como back e angular no front
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AndreiBack&repo=PizzariaAngular&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/AndreiBack/PizzariaAngular)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AndreiBack&repo=API-Pizzaria&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/AndreiBack/APIPizzaria)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AndreiBack&repo=APIPizzaria&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/AndreiBack/APIPizzaria)
 
 
 ## Jogo feito em arduino que foi muito desafiador e me orgulho
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AndreiBack&repo=iSword&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/AndreiBack/Codigo-Arduino-iSword)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AndreiBack&repo=Codigo-Arduino-iSword&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/AndreiBack/Codigo-Arduino-iSword)
