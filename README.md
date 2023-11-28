@@ -40,7 +40,7 @@ Estudante de Engenharia de Software [4/8]
 
 ## Jogo feito na Godot fps estilo Doom com mecanicas de dificuldade avançadas
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AndreiBack&repo=DoomBrabo&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/AndreiBack/DoomBrabo)
-[![Itch.io](https://img.itch.zone/aW1nLzE0MTU3ODcwLmpwZw==/original/802NlS.jpg)](https://andreiback.itch.io/doombrabo)
+[![Itch.io](https://img.itch.zone/aW1nLzE0MTU3ODE4LmpwZw==/315x250%23c/A0pkMB.jpg)](https://andreiback.itch.io/doombrabo)
 ## Projeto de uma pizzaria utilizando java como back e angular no front
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AndreiBack&repo=PizzariaAngular&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/AndreiBack/PizzariaAngular)
 
