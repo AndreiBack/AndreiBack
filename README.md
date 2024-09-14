@@ -8,7 +8,6 @@ Estudante de Engenharia de Software [4/8]
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/andrei-gregori-back-a5b755240/)
-[![E-MAIL](https://camo.githubusercontent.com/5569c47c09be5c1b56cc1327a30316503cd933f97caea0be8dc8a91789815e71/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d456d61696c2d3030303f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6963726f736f66742d6f75746c6f6f6b266c6f676f436f6c6f723d453934443546?style=for-the-badge&)](mailto:andreigregoriback2@gmail.com)
 [![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://andreiback.itch.io)
 
 ## Habilidades
